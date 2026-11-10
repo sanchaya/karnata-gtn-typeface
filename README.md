@@ -83,3 +83,8 @@ ServantsOfKnowledge for Digitization Support
 
 This font is licensed under the SIL Open Font License 1.1.
 http://scripts.sil.org/OFL
+
+## Font In Use
+
+
+![Karnata GTN Mobile](Tests/Assets/fontinuse.jpg)
